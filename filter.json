@@ -1,0 +1,144 @@
+{\rtf1\ansi\ansicpg1258\deff0\nouicompat\deflang1066{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue255;}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\f0\fs22\lang9\{\par
+  "meals": [\par
+    \{\par
+      "strMeal": "Baked salmon with fennel & tomatoes",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/1548772327.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/1548772327.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52959"\par
+    \},\par
+    \{\par
+      "strMeal": "Cajun spiced fish tacos",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52819"\par
+    \},\par
+    \{\par
+      "strMeal": "Escovitch Fish",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/1520084413.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/1520084413.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52944"\par
+    \},\par
+    \{\par
+      "strMeal": "Fish fofos",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "53043"\par
+    \},\par
+    \{\par
+      "strMeal": "Fish pie",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52802"\par
+    \},\par
+    \{\par
+      "strMeal": "Fish Stew with Rouille",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52918"\par
+    \},\par
+    \{\par
+      "strMeal": "Garides Saganaki",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52764"\par
+    \},\par
+    \{\par
+      "strMeal": "Grilled Portuguese sardines",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "53041"\par
+    \},\par
+    \{\par
+      "strMeal": "Honey Teriyaki Salmon",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52773"\par
+    \},\par
+    \{\par
+      "strMeal": "Kedgeree",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52887"\par
+    \},\par
+    \{\par
+      "strMeal": "Kung Po Prawns",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/1525873040.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/1525873040.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52946"\par
+    \},\par
+    \{\par
+      "strMeal": "Laksa King Prawn Noodles",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52821"\par
+    \},\par
+    \{\par
+      "strMeal": "Mediterranean Pasta Salad",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52777"\par
+    \},\par
+    \{\par
+      "strMeal": "Mee goreng mamak",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "53048"\par
+    \},\par
+    \{\par
+      "strMeal": "Nasi lemak",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "53051"\par
+    \},\par
+    \{\par
+      "strMeal": "Portuguese fish stew (Caldeirada de peixe)",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "53045"\par
+    \},\par
+    \{\par
+      "strMeal": "Recheado Masala Fish",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52809"\par
+    \},\par
+    \{\par
+      "strMeal": "Salmon Avocado Salad",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/1549542994.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/1549542994.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52960"\par
+    \},\par
+    \{\par
+      "strMeal": "Salmon Prawn Risotto",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52823"\par
+    \},\par
+    \{\par
+      "strMeal": "Saltfish and Ackee",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52936"\par
+    \},\par
+    \{\par
+      "strMeal": "Seafood fideu\'e0",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52836"\par
+    \},\par
+    \{\par
+      "strMeal": "Shrimp Chow Fun",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/1529445434.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/1529445434.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52953"\par
+    \},\par
+    \{\par
+      "strMeal": "Sledz w Oleju (Polish Herrings)",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "53023"\par
+    \},\par
+    \{\par
+      "strMeal": "Spring onion and prawn empanadas",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "53040"\par
+    \},\par
+    \{\par
+      "strMeal": "Three Fish Pie",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52882"\par
+    \},\par
+    \{\par
+      "strMeal": "Tuna and Egg Briks",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52975"\par
+    \},\par
+    \{\par
+      "strMeal": "Tuna Nicoise",\par
+      "strMealThumb": "{{\field{\*\fldinst{HYPERLINK https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg }}{\fldrslt{https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg\ul0\cf0}}}}\f0\fs22 ",\par
+      "idMeal": "52852"\par
+    \}\par
+  ]\par
+\}\par
+}
+ 
